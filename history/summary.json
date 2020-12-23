@@ -4,19 +4,19 @@
     "url": "http://schtroumpsify.chorip.am/",
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.chorip.am",
     "slug": "schtroumpsify",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3131,
-    "timeDay": 3131,
-    "timeWeek": 3131,
-    "timeMonth": 3131,
-    "timeYear": 3131,
+    "status": "up",
+    "uptime": "97.28%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
+    "time": 2970,
+    "timeDay": 2970,
+    "timeWeek": 2970,
+    "timeMonth": 2970,
+    "timeYear": 2970,
     "dailyMinutesDown": {
-      "2020-12-23": 0
+      "2020-12-23": 39
     }
   },
   {

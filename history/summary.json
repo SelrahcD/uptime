@@ -4,9 +4,9 @@
     "url": "http://schtroumpsify.chorip.am/",
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.chorip.am",
     "slug": "schtroumpsify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2580,
     "timeMonth": 2263,
     "timeYear": 2263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-30": 0
+    }
   },
   {
     "name": "Blog",

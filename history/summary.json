@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.chorip.am",
     "slug": "schtroumpsify",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 2086,
-    "timeDay": 776,
-    "timeWeek": 844,
-    "timeMonth": 2086,
-    "timeYear": 2086,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2031,
+    "timeDay": 714,
+    "timeWeek": 827,
+    "timeMonth": 2031,
+    "timeYear": 2031,
     "dailyMinutesDown": {
       "2020-12-30": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 187,
-    "timeWeek": 230,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "time": 208,
+    "timeDay": 199,
+    "timeWeek": 218,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]

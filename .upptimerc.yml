@@ -4,10 +4,12 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: 🌯Burritalks
+    url: https://www.burritalks.io
   - name: Schtroumpsify
-    url: http://schtroumpsify.chorip.am/
+    url: https://schtroumpsify.chorip.am/
   - name: Blog
-    url: http://blog.chorip.am/
+    url: https://blog.chorip.am/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

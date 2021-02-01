@@ -10,6 +10,8 @@ sites:
     url: https://schtroumpsify.chorip.am/
   - name: 📝 Blog
     url: https://blog.chorip.am/
+  - name: 🎩 Personal website
+    url: https://www.chorip.am/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

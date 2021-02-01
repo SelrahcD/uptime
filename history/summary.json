@@ -66,18 +66,16 @@
     "icon": "https://favicons.githubusercontent.com/www.chorip.am",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "2.25%",
-    "uptimeDay": "2.25%",
-    "uptimeWeek": "2.25%",
-    "uptimeMonth": "2.25%",
-    "uptimeYear": "2.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2021-02-01": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]

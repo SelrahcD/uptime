@@ -13,7 +13,7 @@
     "time": 638,
     "timeDay": 937,
     "timeWeek": 593,
-    "timeMonth": 681,
+    "timeMonth": 671,
     "timeYear": 638,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://schtroumpsify.chorip.am/",
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.chorip.am",
     "slug": "schtroumpsify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

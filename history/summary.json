@@ -22,9 +22,9 @@
     "url": "https://schtroumpsify.chorip.am/",
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.chorip.am",
     "slug": "schtroumpsify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1416,
     "timeMonth": 892,
     "timeYear": 1471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-06": 0
+    }
   },
   {
     "name": "📝 Blog",

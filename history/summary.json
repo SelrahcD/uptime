@@ -22,11 +22,11 @@
     "url": "https://schtroumpsify.chorip.am/",
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.chorip.am",
     "slug": "schtroumpsify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "73.53%",
+    "uptimeDay": "95.57%",
     "uptimeWeek": "90.69%",
-    "uptimeMonth": "97.77%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "99.54%",
     "time": 1446,
     "timeDay": 749,
@@ -34,6 +34,7 @@
     "timeMonth": 1099,
     "timeYear": 1446,
     "dailyMinutesDown": {
+      "2021-05-19": 0,
       "2021-05-18": 454,
       "2021-05-17": 485,
       "2021-05-06": 41

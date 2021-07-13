@@ -70,9 +70,9 @@
     "url": "http://www.chorip.am/",
     "icon": "https://favicons.githubusercontent.com/www.chorip.am",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,6 +81,8 @@
     "timeWeek": 479,
     "timeMonth": 602,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   }
 ]

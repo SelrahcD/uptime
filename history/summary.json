@@ -4,19 +4,19 @@
     "url": "https://www.burritalks.io",
     "icon": "https://favicons.githubusercontent.com/www.burritalks.io",
     "slug": "burritalks",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 687,
-    "timeDay": 242,
-    "timeWeek": 986,
-    "timeMonth": 699,
-    "timeYear": 687,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
+    "time": 688,
+    "timeDay": 474,
+    "timeWeek": 981,
+    "timeMonth": 706,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2021-08-30": 28
+      "2021-08-30": 65
     }
   },
   {

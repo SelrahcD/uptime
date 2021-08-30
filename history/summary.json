@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.burritalks.io",
     "slug": "burritalks",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 687,
     "timeDay": 242,
     "timeWeek": 986,
     "timeMonth": 699,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2021-08-30": 0
+      "2021-08-30": 28
     }
   },
   {

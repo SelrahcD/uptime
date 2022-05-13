@@ -7,15 +7,15 @@ sites:
   - name: 🌯 Burritalks
     url: https://www.burritalks.io
   - name: 📰 Schtroumpsify
-    url: https://schtroumpsify.chorip.am/
+    url: https://schtroumpsify.selrahcd.com/
   - name: 📝 Blog
-    url: https://blog.chorip.am/
+    url: https://blog.selrahcd.com/
   - name: 🎩 Personal website
-    url: http://www.chorip.am/
+    url: http://www.selrahcd.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: uptime.chorip.am
+  cname: uptime.selrahcd.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

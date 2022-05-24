@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 657,
-    "timeDay": 721,
-    "timeWeek": 592,
-    "timeMonth": 627,
+    "timeDay": 750,
+    "timeWeek": 642,
+    "timeMonth": 635,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2022-04-19": 16,
@@ -32,15 +32,15 @@
     "icon": "https://favicons.githubusercontent.com/schtroumpsify.charlesdesneuf.com",
     "slug": "schtroumpsify",
     "status": "up",
-    "uptime": "88.46%",
+    "uptime": "88.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "55.80%",
+    "uptimeMonth": "59.10%",
     "uptimeYear": "83.88%",
     "time": 1062,
-    "timeDay": 742,
-    "timeWeek": 769,
-    "timeMonth": 690,
+    "timeDay": 799,
+    "timeWeek": 793,
+    "timeMonth": 697,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2022-05-21": 20,
@@ -145,8 +145,7 @@
       "2021-06-21": 22,
       "2021-06-10": 47,
       "2021-06-09": 36,
-      "2021-05-27": 38,
-      "2021-05-24": 20
+      "2021-05-27": 38
     }
   },
   {
@@ -161,10 +160,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 334,
-    "timeDay": 241,
-    "timeWeek": 284,
-    "timeMonth": 243,
-    "timeYear": 328,
+    "timeDay": 282,
+    "timeWeek": 303,
+    "timeMonth": 246,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2022-05-13": 35,
       "2021-06-08": 34
@@ -182,10 +181,10 @@
     "uptimeMonth": "97.19%",
     "uptimeYear": "99.74%",
     "time": 449,
-    "timeDay": 468,
-    "timeWeek": 381,
-    "timeMonth": 476,
-    "timeYear": 431,
+    "timeDay": 370,
+    "timeWeek": 407,
+    "timeMonth": 482,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2022-05-14": 781,
       "2022-05-13": 415,

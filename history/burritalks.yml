@@ -1,7 +1,7 @@
 url: https://www.burritalks.io
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2022-12-15T19:27:39.877Z
+status: down
+code: 500
+responseTime: 3605
+lastUpdated: 2022-12-15T20:03:42.317Z
 startTime: Mon Jan 18 2021 18:48:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

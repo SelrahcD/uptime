@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.91%",
     "time": 738,
-    "timeDay": 3484,
-    "timeWeek": 1230,
-    "timeMonth": 937,
+    "timeDay": 3492,
+    "timeWeek": 1237,
+    "timeMonth": 933,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2023-02-27": 9,
       "2023-02-19": 18,
       "2023-02-18": 5,
       "2023-01-26": 122,
@@ -30,8 +29,7 @@
       "2022-05-31": 19,
       "2022-05-27": 20,
       "2022-04-19": 16,
-      "2022-04-14": 83,
-      "2022-02-28": 24
+      "2022-04-14": 83
     }
   },
   {
@@ -40,18 +38,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "79.17%",
+    "uptime": "79.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.17%",
-    "uptimeYear": "66.11%",
-    "time": 834,
+    "uptimeMonth": "35.82%",
+    "uptimeYear": "66.00%",
+    "time": 835,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1052,
+    "timeMonth": 1090,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2023-02-27": 873,
+      "2023-02-28": 24,
+      "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -210,10 +209,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 360,
-    "timeDay": 325,
-    "timeWeek": 371,
-    "timeMonth": 350,
-    "timeYear": 399,
+    "timeDay": 376,
+    "timeWeek": 374,
+    "timeMonth": 351,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2022-10-14": 17,
       "2022-09-23": 19,
@@ -233,9 +232,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 410,
-    "timeDay": 235,
-    "timeWeek": 287,
-    "timeMonth": 383,
+    "timeDay": 526,
+    "timeWeek": 301,
+    "timeMonth": 387,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2022-09-23": 19,
@@ -243,8 +242,7 @@
       "2022-05-14": 781,
       "2022-05-13": 415,
       "2022-05-02": 33,
-      "2022-04-19": 16,
-      "2022-02-28": 24
+      "2022-04-19": 16
     }
   }
 ]

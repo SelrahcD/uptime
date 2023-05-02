@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 741,
-    "timeDay": 625,
-    "timeWeek": 765,
-    "timeMonth": 793,
+    "time": 742,
+    "timeDay": 707,
+    "timeWeek": 662,
+    "timeMonth": 796,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-05-01": 10,
       "2023-04-24": 28,
       "2023-04-03": 17,
       "2023-03-27": 17,
@@ -41,14 +40,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "up",
-    "uptime": "75.49%",
+    "uptime": "75.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.80%",
-    "uptimeYear": "57.20%",
+    "uptimeMonth": "62.86%",
+    "uptimeYear": "57.37%",
     "time": 777,
-    "timeDay": 641,
-    "timeWeek": 675,
+    "timeDay": 646,
+    "timeWeek": 644,
     "timeMonth": 641,
     "timeYear": 773,
     "dailyMinutesDown": {
@@ -221,8 +220,7 @@
       "2022-05-06": 658,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
-      "2022-05-03": 1440,
-      "2022-05-02": 1440
+      "2022-05-03": 1440
     }
   },
   {
@@ -237,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 395,
-    "timeDay": 314,
-    "timeWeek": 369,
-    "timeMonth": 479,
+    "timeDay": 306,
+    "timeWeek": 371,
+    "timeMonth": 474,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2022-10-14": 17,
@@ -259,17 +257,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 421,
-    "timeDay": 413,
-    "timeWeek": 423,
-    "timeMonth": 518,
+    "time": 422,
+    "timeDay": 485,
+    "timeWeek": 430,
+    "timeMonth": 517,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2022-09-23": 19,
       "2022-07-13": 16,
       "2022-05-14": 781,
-      "2022-05-13": 415,
-      "2022-05-02": 33
+      "2022-05-13": 415
     }
   }
 ]

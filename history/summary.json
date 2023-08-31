@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 772,
-    "timeDay": 742,
-    "timeWeek": 688,
-    "timeMonth": 646,
-    "timeYear": 756,
+    "time": 770,
+    "timeDay": 720,
+    "timeWeek": 719,
+    "timeMonth": 648,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2023-04-24": 28,
       "2023-04-03": 17,
@@ -26,8 +26,7 @@
       "2023-01-24": 18,
       "2022-10-14": 17,
       "2022-09-23": 79,
-      "2022-09-04": 19,
-      "2022-08-31": 18
+      "2022-09-04": 19
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "up",
-    "uptime": "77.97%",
+    "uptime": "78.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.02%",
-    "time": 720,
-    "timeDay": 759,
-    "timeWeek": 590,
-    "timeMonth": 635,
-    "timeYear": 717,
+    "uptimeYear": "62.29%",
+    "time": 719,
+    "timeDay": 480,
+    "timeWeek": 586,
+    "timeMonth": 624,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2023-07-17": 728,
       "2023-07-16": 1440,
@@ -188,8 +187,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -204,9 +202,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 417,
-    "timeDay": 469,
-    "timeWeek": 289,
-    "timeMonth": 309,
+    "timeDay": 249,
+    "timeWeek": 299,
+    "timeMonth": 307,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2022-10-14": 17,
@@ -225,11 +223,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 341,
-    "timeWeek": 391,
-    "timeMonth": 341,
-    "timeYear": 409,
+    "time": 418,
+    "timeDay": 1161,
+    "timeWeek": 516,
+    "timeMonth": 367,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2022-09-23": 19
     }

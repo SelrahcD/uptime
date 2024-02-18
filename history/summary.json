@@ -11,17 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 677,
-    "timeDay": 628,
-    "timeWeek": 624,
-    "timeMonth": 557,
-    "timeYear": 667,
+    "timeDay": 277,
+    "timeWeek": 582,
+    "timeMonth": 548,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2023-04-24": 28,
       "2023-04-03": 17,
       "2023-03-27": 17,
       "2023-03-01": 16,
-      "2023-02-19": 18,
-      "2023-02-18": 5
+      "2023-02-19": 18
     }
   },
   {
@@ -30,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "70.24%",
+    "uptime": "70.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "48.71%",
-    "time": 690,
+    "time": 689,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-02-17": 21,
+      "2024-02-18": 23,
+      "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -229,8 +229,7 @@
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
-      "2023-02-19": 1440,
-      "2023-02-18": 1440
+      "2023-02-19": 1440
     }
   },
   {
@@ -244,11 +243,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 311,
-    "timeWeek": 241,
-    "timeMonth": 224,
-    "timeYear": 323,
+    "time": 356,
+    "timeDay": 166,
+    "timeWeek": 235,
+    "timeMonth": 221,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -263,9 +262,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 345,
-    "timeWeek": 241,
-    "timeMonth": 273,
+    "timeDay": 201,
+    "timeWeek": 248,
+    "timeMonth": 275,
     "timeYear": 346,
     "dailyMinutesDown": {}
   }

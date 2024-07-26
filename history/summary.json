@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-07-26": 1101,
+      "2024-07-26": 1112,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -352,19 +352,19 @@
     "url": "http://www.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charlesdesneuf.com.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 329,
-    "timeDay": 1769,
-    "timeWeek": 664,
-    "timeMonth": 387,
+    "timeDay": 1272,
+    "timeWeek": 622,
+    "timeMonth": 384,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-07-26": 0,
+      "2024-07-26": 11,
       "2024-03-16": 26
     }
   }

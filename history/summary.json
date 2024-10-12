@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 626,
-    "timeDay": 641,
-    "timeWeek": 627,
-    "timeMonth": 657,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 627,
+    "timeDay": 671,
+    "timeWeek": 644,
+    "timeMonth": 665,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2024-10-11": 13,
       "2024-03-16": 66
     }
   },
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "58.23%",
+    "uptime": "58.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "8.72%",
-    "time": 632,
+    "time": 631,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-10-11": 784,
+      "2024-10-12": 27,
+      "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -368,8 +368,7 @@
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
-      "2023-10-14": 1440,
-      "2023-10-13": 1440
+      "2023-10-14": 1440
     }
   },
   {
@@ -384,9 +383,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 178,
-    "timeWeek": 254,
-    "timeMonth": 251,
+    "timeDay": 175,
+    "timeWeek": 262,
+    "timeMonth": 248,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2024-03-16": 16
@@ -403,11 +402,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 232,
-    "timeWeek": 299,
-    "timeMonth": 367,
-    "timeYear": 300,
+    "time": 313,
+    "timeDay": 305,
+    "timeWeek": 301,
+    "timeMonth": 369,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2024-03-16": 26
     }

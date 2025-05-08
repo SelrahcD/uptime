@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 664,
-    "timeDay": 596,
-    "timeWeek": 732,
-    "timeMonth": 712,
-    "timeYear": 691,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
+    "time": 667,
+    "timeDay": 961,
+    "timeWeek": 816,
+    "timeMonth": 739,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-05-07": 9,
       "2025-04-28": 20
     }
   },
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "50.64%",
+    "uptime": "50.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 660,
+    "time": 677,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 711,
+      "2025-05-08": 32,
+      "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -400,8 +400,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   },
   {
@@ -411,18 +410,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 200,
-    "timeWeek": 259,
-    "timeMonth": 314,
-    "timeYear": 290,
-    "dailyMinutesDown": {
-      "2025-05-07": 9
-    }
+    "timeDay": 281,
+    "timeWeek": 267,
+    "timeMonth": 313,
+    "timeYear": 291,
+    "dailyMinutesDown": {}
   },
   {
     "name": "🎩 Personal website",
@@ -431,17 +428,15 @@
     "slug": "personal-website",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 211,
-    "timeWeek": 359,
-    "timeMonth": 329,
+    "timeDay": 237,
+    "timeWeek": 365,
+    "timeMonth": 327,
     "timeYear": 311,
-    "dailyMinutesDown": {
-      "2025-05-07": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]

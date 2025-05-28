@@ -4,18 +4,19 @@
     "url": "https://www.burritalks.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 485,
     "timeWeek": 690,
-    "timeMonth": 750,
+    "timeMonth": 747,
     "timeYear": 704,
     "dailyMinutesDown": {
+      "2025-05-28": 1,
       "2025-04-28": 20
     }
   },
@@ -25,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "50.00%",
+    "uptime": "49.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-28": 33,
+      "2025-05-28": 1091,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -426,17 +427,19 @@
     "url": "http://www.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charlesdesneuf.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
+    "time": 310,
     "timeDay": 207,
     "timeWeek": 420,
     "timeMonth": 379,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   }
 ]

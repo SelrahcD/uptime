@@ -4,9 +4,9 @@
     "url": "https://www.burritalks.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 673,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-04-28": 20
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 39,
+      "2025-08-10": 316,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,

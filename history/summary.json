@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 684,
-    "timeWeek": 720,
-    "timeMonth": 674,
-    "timeYear": 690,
+    "timeDay": 604,
+    "timeWeek": 663,
+    "timeMonth": 667,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-08-10": 14,
       "2025-04-28": 20
     }
   },
@@ -26,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "47.81%",
+    "uptime": "47.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 331,
+      "2025-08-11": 38,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -400,8 +400,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -416,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 258,
-    "timeWeek": 272,
-    "timeMonth": 310,
+    "timeDay": 242,
+    "timeWeek": 251,
+    "timeMonth": 301,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -434,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 199,
-    "timeWeek": 301,
-    "timeMonth": 322,
+    "timeDay": 323,
+    "timeWeek": 282,
+    "timeMonth": 325,
     "timeYear": 327,
     "dailyMinutesDown": {}
   }

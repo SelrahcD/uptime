@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 644,
-    "timeWeek": 698,
-    "timeMonth": 813,
-    "timeYear": 705,
+    "time": 714,
+    "timeDay": 987,
+    "timeWeek": 724,
+    "timeMonth": 812,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2025-04-28": 20
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "46.39%",
+    "uptime": "46.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-01": 36,
+      "2025-10-02": 29,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -399,8 +400,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 242,
-    "timeWeek": 300,
-    "timeMonth": 354,
+    "timeDay": 127,
+    "timeWeek": 256,
+    "timeMonth": 345,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 259,
-    "timeWeek": 375,
-    "timeMonth": 385,
+    "timeDay": 366,
+    "timeWeek": 369,
+    "timeMonth": 377,
     "timeYear": 329,
     "dailyMinutesDown": {}
   }

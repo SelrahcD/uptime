@@ -4,11 +4,11 @@
     "url": "https://www.burritalks.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 731,
     "timeDay": 3760,
@@ -16,7 +16,7 @@
     "timeMonth": 1213,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-10-20": 68,
+      "2025-10-20": 69,
       "2025-04-28": 20
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 1028,
+      "2025-10-20": 1042,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -409,11 +409,11 @@
     "url": "https://blog.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.charlesdesneuf.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 279,
@@ -421,7 +421,7 @@
     "timeMonth": 295,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-10-20": 10
+      "2025-10-20": 1
     }
   },
   {
@@ -429,11 +429,11 @@
     "url": "http://www.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charlesdesneuf.com.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 358,
     "timeDay": 1280,
@@ -441,7 +441,7 @@
     "timeMonth": 647,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-10-20": 25
+      "2025-10-20": 15
     }
   }
 ]

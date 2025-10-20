@@ -4,19 +4,19 @@
     "url": "https://www.burritalks.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 738,
-    "timeDay": 2342,
-    "timeWeek": 1233,
-    "timeMonth": 960,
-    "timeYear": 730,
+    "time": 757,
+    "timeDay": 4428,
+    "timeWeek": 2092,
+    "timeMonth": 1216,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2025-10-20": 10,
+      "2025-10-20": 21,
       "2025-04-28": 20
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-20": 956,
+      "2025-10-20": 968,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -409,19 +409,19 @@
     "url": "https://blog.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.charlesdesneuf.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 362,
-    "timeWeek": 359,
-    "timeMonth": 299,
-    "timeYear": 314,
+    "time": 305,
+    "timeDay": 207,
+    "timeWeek": 321,
+    "timeMonth": 291,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-10-20": 1
+      "2025-10-20": 12
     }
   },
   {
@@ -429,19 +429,19 @@
     "url": "http://www.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charlesdesneuf.com.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 2894,
-    "timeWeek": 941,
-    "timeMonth": 685,
-    "timeYear": 361,
+    "timeDay": 1956,
+    "timeWeek": 855,
+    "timeMonth": 668,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 11
     }
   }
 ]

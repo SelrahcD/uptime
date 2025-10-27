@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 732,
-    "timeDay": 517,
-    "timeWeek": 1772,
-    "timeMonth": 1148,
-    "timeYear": 755,
+    "time": 733,
+    "timeDay": 593,
+    "timeWeek": 1851,
+    "timeMonth": 1161,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-10-26": 8,
       "2025-10-20": 89,
       "2025-04-28": 20
     }
@@ -27,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "45.72%",
+    "uptime": "45.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -38,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 830,
+      "2025-10-27": 35,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -401,8 +401,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -412,18 +411,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 343,
-    "timeWeek": 322,
-    "timeMonth": 305,
-    "timeYear": 313,
-    "dailyMinutesDown": {
-      "2025-10-26": 8
-    }
+    "timeDay": 251,
+    "timeWeek": 313,
+    "timeMonth": 307,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "🎩 Personal website",
@@ -436,10 +433,10 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 898,
-    "timeWeek": 843,
-    "timeMonth": 658,
+    "time": 361,
+    "timeDay": 199,
+    "timeWeek": 838,
+    "timeMonth": 652,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2025-10-20": 15

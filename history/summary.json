@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 734,
-    "timeDay": 715,
-    "timeWeek": 653,
-    "timeMonth": 1128,
+    "timeDay": 716,
+    "timeWeek": 702,
+    "timeMonth": 1135,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-10-29": 9,
       "2025-10-20": 89,
       "2025-04-28": 20
     }
@@ -38,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-29": 1145,
+      "2025-10-30": 33,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -401,8 +401,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -417,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 508,
-    "timeWeek": 340,
-    "timeMonth": 317,
-    "timeYear": 313,
+    "timeDay": 314,
+    "timeWeek": 349,
+    "timeMonth": 314,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -435,9 +434,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 458,
-    "timeWeek": 437,
-    "timeMonth": 666,
+    "timeDay": 172,
+    "timeWeek": 449,
+    "timeMonth": 655,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-10-20": 15

@@ -4,11 +4,11 @@
     "url": "https://www.burritalks.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 746,
     "timeDay": 1052,
@@ -16,7 +16,7 @@
     "timeMonth": 1090,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-11-17": 9,
+      "2025-11-17": 1,
       "2025-10-20": 89,
       "2025-04-28": 20
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 652,
+      "2025-11-17": 696,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -410,9 +410,9 @@
     "url": "https://blog.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.charlesdesneuf.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -421,7 +421,9 @@
     "timeWeek": 245,
     "timeMonth": 329,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-17": 0
+    }
   },
   {
     "name": "🎩 Personal website",

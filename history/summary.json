@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 747,
-    "timeDay": 926,
-    "timeWeek": 798,
-    "timeMonth": 1081,
-    "timeYear": 761,
+    "time": 746,
+    "timeDay": 708,
+    "timeWeek": 733,
+    "timeMonth": 1070,
+    "timeYear": 760,
     "dailyMinutesDown": {
-      "2025-11-17": 9,
       "2025-10-20": 89,
       "2025-04-28": 20
     }
@@ -27,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "45.16%",
+    "uptime": "45.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-17": 704,
+      "2025-11-18": 33,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -401,8 +401,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -412,18 +411,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 344,
-    "timeWeek": 242,
-    "timeMonth": 326,
+    "timeDay": 223,
+    "timeWeek": 259,
+    "timeMonth": 313,
     "timeYear": 312,
-    "dailyMinutesDown": {
-      "2025-11-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🎩 Personal website",
@@ -436,11 +433,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 415,
-    "timeWeek": 342,
-    "timeMonth": 556,
-    "timeYear": 371,
+    "time": 360,
+    "timeDay": 83,
+    "timeWeek": 323,
+    "timeMonth": 547,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-10-20": 15
     }

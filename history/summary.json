@@ -6,17 +6,16 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
     "time": 746,
-    "timeDay": 673,
-    "timeWeek": 717,
-    "timeMonth": 1060,
+    "timeDay": 711,
+    "timeWeek": 756,
+    "timeMonth": 1077,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2025-11-18": 9,
       "2025-10-20": 89,
       "2025-04-28": 20
     }
@@ -27,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schtroumpsify.charlesdesneuf.com.ico",
     "slug": "schtroumpsify",
     "status": "down",
-    "uptime": "45.13%",
+    "uptime": "45.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 587,
+      "2025-11-19": 33,
+      "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -401,8 +401,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -417,8 +416,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 223,
-    "timeWeek": 259,
+    "timeDay": 213,
+    "timeWeek": 256,
     "timeMonth": 313,
     "timeYear": 312,
     "dailyMinutesDown": {}
@@ -434,9 +433,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 83,
-    "timeWeek": 323,
+    "time": 361,
+    "timeDay": 287,
+    "timeWeek": 317,
     "timeMonth": 547,
     "timeYear": 370,
     "dailyMinutesDown": {

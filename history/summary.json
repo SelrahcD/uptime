@@ -33,7 +33,7 @@
     "uptime": "45.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.92%",
+    "uptimeMonth": "82.95%",
     "uptimeYear": "7.07%",
     "time": 0,
     "timeDay": 0,
@@ -387,19 +387,19 @@
     "url": "https://blog.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.charlesdesneuf.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 341,
-    "timeWeek": 321,
-    "timeMonth": 295,
+    "timeDay": 358,
+    "timeWeek": 328,
+    "timeMonth": 298,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2026-01-05": 0
+      "2026-01-05": 16
     }
   },
   {

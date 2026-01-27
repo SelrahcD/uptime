@@ -6,9 +6,9 @@
     "slug": "burritalks",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 772,
     "timeDay": 1424,
@@ -16,7 +16,6 @@
     "timeMonth": 878,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2026-01-26": 12,
       "2026-01-14": 30,
       "2025-12-22": 20,
       "2025-12-12": 24,
@@ -36,7 +35,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.99%",
+    "uptimeYear": "13.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -359,8 +358,7 @@
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
-      "2025-01-28": 1440,
-      "2025-01-27": 1440
+      "2025-01-28": 1440
     }
   },
   {

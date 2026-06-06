@@ -4,17 +4,17 @@
     "url": "https://www.burritalks.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.burritalks.io.ico",
     "slug": "burritalks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.62%",
     "time": 747,
-    "timeDay": 720,
-    "timeWeek": 618,
-    "timeMonth": 596,
-    "timeYear": 771,
+    "timeDay": 595,
+    "timeWeek": 601,
+    "timeMonth": 593,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2025-10-20": 89,
       "2025-11-20": 18,
@@ -73,7 +73,7 @@
       "2026-05-19": 37,
       "2026-06-03": 19,
       "2026-06-02": 13,
-      "2026-06-06": 22
+      "2026-06-06": 24
     }
   },
   {
@@ -86,7 +86,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.80%",
+    "uptimeYear": "48.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -287,16 +287,16 @@
     "url": "https://blog.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.charlesdesneuf.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
     "time": 327,
-    "timeDay": 357,
-    "timeWeek": 401,
-    "timeMonth": 368,
+    "timeDay": 372,
+    "timeWeek": 400,
+    "timeMonth": 369,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2026-01-05": 16,
@@ -305,7 +305,7 @@
       "2026-05-19": 29,
       "2026-06-03": 19,
       "2026-06-02": 6,
-      "2026-06-06": 10
+      "2026-06-06": 17
     }
   },
   {
@@ -313,16 +313,16 @@
     "url": "http://www.charlesdesneuf.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.charlesdesneuf.com.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.95%",
-    "time": 414,
-    "timeDay": 227,
-    "timeWeek": 464,
-    "timeMonth": 458,
+    "time": 392,
+    "timeDay": 276,
+    "timeWeek": 448,
+    "timeMonth": 454,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-10-20": 15,
@@ -331,7 +331,7 @@
       "2026-05-10": 96,
       "2026-05-19": 66,
       "2026-06-03": 18,
-      "2026-06-06": 2
+      "2026-06-06": 10
     }
   }
 ]
